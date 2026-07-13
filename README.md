@@ -39,6 +39,7 @@ Open-source software you deploy and operate yourself: full control, your infrast
 - [One API](https://github.com/songquanpeng/one-api) — Self-hosted multi-provider key management and OpenAI-compatible distribution station, popular in the Chinese-speaking ecosystem.
 - [Portkey Gateway](https://github.com/Portkey-AI/gateway) — Open-source core of Portkey: a lightweight gateway with fallback, retries, and load balancing.
 - [TensorZero](https://github.com/tensorzero/tensorzero) — Open-source gateway with built-in experimentation, observability, and optimization feedback loops.
+- [A3M Router](https://github.com/Das-rebel/adaptive-memory-multi-model-router) — Parallel multi-LLM execution with confidence-weighted voting across 47+ providers; ranked #1 on RouterArena.
 
 ## Routing frameworks & research
 
