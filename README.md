@@ -23,6 +23,8 @@ Hosted services: you get an endpoint and a key, the operator runs the infrastruc
 - [Eden AI](https://www.edenai.co/) — Aggregated API across many AI capabilities (LLMs, vision, speech) with unified billing.
 - [OpenRouter](https://openrouter.ai/) — Large public catalog of models behind one OpenAI-compatible API, with published per-model token pricing.
 - [Portkey](https://portkey.ai/) — AI gateway plus guardrails, virtual keys, and observability; also ships an open-source gateway core.
+
+- [FlintAPI](https://flintapi.ai) ([repo](https://github.com/moozechen/flintapi)) — Smart Routing engine over 25+ Chinese LLMs (DeepSeek V4, Qwen3.7, Kimi K2.6, GLM-5.1, MiniMax M2.7). Decomposes prompts into sub-tasks and auto-routes each to the best-suited model. $5 free credit, no card. OpenAI-compatible drop-in replacement. → [Blog: Smart Routing vs Aggregation](https://flintapi.ai/blog/smart-routing-vs-aggregation).
 - [Requesty](https://requesty.ai/) — Managed router with fallback and cost analytics over multiple providers.
 - [Router One](https://router.one) — Unified LLM API gateway: OpenAI-compatible and Anthropic-compatible endpoints for 40+ supported models, smart routing with automatic same-family fallback, per-request cost traces, per-key budgets, and native Claude Code / Codex CLI support; reachable worldwide including mainland China.
 - [Unify](https://unify.ai/) — Routing layer that picks models per prompt based on quality/cost/latency benchmarks.
