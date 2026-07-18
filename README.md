@@ -67,3 +67,5 @@ Tools that answer "what did that call cost, and why did it behave that way" — 
 ## License
 
 [CC0 1.0](LICENSE) — public domain. Do whatever you want with this list.
+
+- [JiuRelay](https://jiurelay.com/) - Free AI API relay for GPT, Claude, GLM. No registration required, 1-hour valid key, OpenAI/Anthropic compatible.
