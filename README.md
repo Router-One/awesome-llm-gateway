@@ -36,6 +36,7 @@ Open-source software you deploy and operate yourself: full control, your infrast
 - [Helicone AI Gateway](https://github.com/Helicone/ai-gateway) — Rust-based self-hostable gateway from the Helicone team, with routing and caching.
 - [Kong AI Gateway](https://konghq.com/products/kong-ai-gateway) — AI plugins on top of Kong Gateway: multi-provider proxying, prompt guarding, analytics.
 - [LiteLLM](https://github.com/BerriAI/litellm) — The most widely used open-source LLM proxy: 100+ providers behind an OpenAI-compatible API, with routing, budgets, and a managed tier.
+- [TrustGate](https://github.com/NeuralTrust/TrustGate) — Self-hosted Go Agent Gateway (Apache-2.0): OpenAI-compatible LLM proxy + MCP aggregation with per-consumer auth, budgets, and tools/list filtering.
 - [One API](https://github.com/songquanpeng/one-api) — Self-hosted multi-provider key management and OpenAI-compatible distribution station, popular in the Chinese-speaking ecosystem.
 - [Portkey Gateway](https://github.com/Portkey-AI/gateway) — Open-source core of Portkey: a lightweight gateway with fallback, retries, and load balancing.
 - [TensorZero](https://github.com/tensorzero/tensorzero) — Open-source gateway with built-in experimentation, observability, and optimization feedback loops.
