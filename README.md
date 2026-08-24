@@ -20,6 +20,7 @@ Maintained by the [Router One](https://router.one) team. Entries are ordered alp
 Hosted services: you get an endpoint and a key, the operator runs the infrastructure.
 
 - [Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/) — Gateway layer on Cloudflare's edge: caching, rate limiting, retries, and analytics in front of your existing provider keys.
+- [cocodot](https://cocodot.co) — OpenAI- and Anthropic-compatible relay for Claude/GPT/Gemini/DeepSeek behind one endpoint, with card, stablecoin, and CNY payment support.
 - [Eden AI](https://www.edenai.co/) — Aggregated API across many AI capabilities (LLMs, vision, speech) with unified billing.
 - [OpenRouter](https://openrouter.ai/) — Large public catalog of models behind one OpenAI-compatible API, with published per-model token pricing.
 - [Portkey](https://portkey.ai/) — AI gateway plus guardrails, virtual keys, and observability; also ships an open-source gateway core.
