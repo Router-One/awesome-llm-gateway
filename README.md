@@ -27,6 +27,7 @@ Hosted services: you get an endpoint and a key, the operator runs the infrastruc
 - [Router One](https://router.one) — Unified LLM API gateway: OpenAI-compatible and Anthropic-compatible endpoints for 40+ supported models, smart routing with automatic same-family fallback, per-request cost traces, per-key budgets, and native Claude Code / Codex CLI support; reachable worldwide including mainland China.
 - [Unify](https://unify.ai/) — Routing layer that picks models per prompt based on quality/cost/latency benchmarks.
 - [Vercel AI Gateway](https://vercel.com/docs/ai-gateway) — Managed gateway tightly integrated with the Vercel platform and AI SDK ecosystem.
+- [XiuRouter](https://router.xiu.ai/) — Hosted usage-based gateway with OpenAI Responses and Chat Completions, Anthropic Messages, Gemini GenerateContent, scoped API keys, and per-request usage and cost records.
 
 ## Self-hosted gateways & proxies
 
