@@ -43,6 +43,7 @@ Open-source software you deploy and operate yourself: full control, your infrast
 ## Routing frameworks & research
 
 - [FrugalGPT](https://arxiv.org/abs/2305.05176) — Paper on LLM cascades: route cheap first, escalate only when needed.
+- [OpenRoutiQ](https://github.com/antat-ai/openroutiq) — Open-source Python framework for explainable, policy-constrained selection across models, providers, deployments, and reasoning levels, with optional outcome learning and an OpenAI-compatible proxy.
 - [RouteLLM](https://github.com/lm-sys/RouteLLM) — Open framework from LMSYS for training and serving quality/cost model routers.
 
 ## Observability & cost tracking
