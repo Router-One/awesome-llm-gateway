@@ -39,6 +39,7 @@ Open-source software you deploy and operate yourself: full control, your infrast
 - [One API](https://github.com/songquanpeng/one-api) — Self-hosted multi-provider key management and OpenAI-compatible distribution station, popular in the Chinese-speaking ecosystem.
 - [Portkey Gateway](https://github.com/Portkey-AI/gateway) — Open-source core of Portkey: a lightweight gateway with fallback, retries, and load balancing.
 - [TensorZero](https://github.com/tensorzero/tensorzero) — Open-source gateway with built-in experimentation, observability, and optimization feedback loops.
+- [vmr](https://github.com/bigfatsea/vmr) — Zero-instrumentation router and flight recorder for AI agents: byte-faithful passthrough for OpenAI/Anthropic/Responses, error-class failover, session-sticky prompt cache, and 1-click replay of any logged request.
 
 ## Routing frameworks & research
 
