@@ -33,6 +33,7 @@ Hosted services: you get an endpoint and a key, the operator runs the infrastruc
 Open-source software you deploy and operate yourself: full control, your infrastructure, your ops.
 
 - [Apache APISIX AI Gateway](https://apisix.apache.org/) — General-purpose API gateway with AI plugins for proxying, token limiting, and content moderation.
+- [Bifrost](https://github.com/maximhq/bifrost) — Go-native, OpenAI-compatible AI gateway with multi-provider routing, automatic failover, load balancing, guardrails, MCP gateway support, and built-in logs, metrics, and tracing.
 - [Helicone AI Gateway](https://github.com/Helicone/ai-gateway) — Rust-based self-hostable gateway from the Helicone team, with routing and caching.
 - [Kong AI Gateway](https://konghq.com/products/kong-ai-gateway) — AI plugins on top of Kong Gateway: multi-provider proxying, prompt guarding, analytics.
 - [LiteLLM](https://github.com/BerriAI/litellm) — The most widely used open-source LLM proxy: 100+ providers behind an OpenAI-compatible API, with routing, budgets, and a managed tier.
