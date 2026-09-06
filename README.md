@@ -25,7 +25,7 @@ Hosted services: you get an endpoint and a key, the operator runs the infrastruc
 - [Portkey](https://portkey.ai/) — AI gateway plus guardrails, virtual keys, and observability; also ships an open-source gateway core.
 - [Requesty](https://requesty.ai/) — Managed router with fallback and cost analytics over multiple providers.
 - [Router One](https://router.one) — Unified LLM API gateway: OpenAI-compatible and Anthropic-compatible endpoints for 40+ supported models, smart routing with automatic same-family fallback, per-request cost traces, per-key budgets, and native Claude Code / Codex CLI support; reachable worldwide including mainland China.
-- [Standard Compute](https://standardcompute.com) — Managed LLM gateway with OpenAI-compatible and Anthropic-compatible endpoints and monthly compute budgets.
+- [Standard Compute](https://standardcompute.com) — Compute subscription for heavy coding-agent use, with automatic provider price selection and smart model routing to improve compute value; OpenAI-compatible and Anthropic-compatible endpoints.
 - [Unify](https://unify.ai/) — Routing layer that picks models per prompt based on quality/cost/latency benchmarks.
 - [Vercel AI Gateway](https://vercel.com/docs/ai-gateway) — Managed gateway tightly integrated with the Vercel platform and AI SDK ecosystem.
 
