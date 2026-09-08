@@ -19,7 +19,9 @@ Maintained by the [Router One](https://router.one) team. Entries are ordered alp
 
 Hosted services: you get an endpoint and a key, the operator runs the infrastructure.
 
+- [ClawRouters](https://clawrouters.com) — Managed router behind one OpenAI-compatible endpoint that selects a model per request across providers, with a public weekly-verified pricing tracker and cost calculator.
 - [Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/) — Gateway layer on Cloudflare's edge: caching, rate limiting, retries, and analytics in front of your existing provider keys.
+- [CodeRouter](https://www.coderouter.io) — Hosted router for coding agents (Claude Code, Codex, Cursor) exposed as an OpenAI-compatible base URL with automatic model selection.
 - [Eden AI](https://www.edenai.co/) — Aggregated API across many AI capabilities (LLMs, vision, speech) with unified billing.
 - [OpenRouter](https://openrouter.ai/) — Large public catalog of models behind one OpenAI-compatible API, with published per-model token pricing.
 - [Portkey](https://portkey.ai/) — AI gateway plus guardrails, virtual keys, and observability; also ships an open-source gateway core.
