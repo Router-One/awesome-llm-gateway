@@ -19,6 +19,7 @@ Maintained by the [Router One](https://router.one) team. Entries are ordered alp
 
 Hosted services: you get an endpoint and a key, the operator runs the infrastructure.
 
+- [AIWave](https://aiwave.live/) — Managed OpenAI-compatible route for Chinese AI providers with USD billing, dated pricing, and request-level usage records.
 - [Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/) — Gateway layer on Cloudflare's edge: caching, rate limiting, retries, and analytics in front of your existing provider keys.
 - [Eden AI](https://www.edenai.co/) — Aggregated API across many AI capabilities (LLMs, vision, speech) with unified billing.
 - [OpenRouter](https://openrouter.ai/) — Large public catalog of models behind one OpenAI-compatible API, with published per-model token pricing.
