@@ -53,6 +53,7 @@ Tools that answer "what did that call cost, and why did it behave that way" — 
 - [Langfuse](https://github.com/langfuse/langfuse) — Open-source LLM engineering platform: traces, evals, prompt management, metrics.
 - [OpenLLMetry](https://github.com/traceloop/openllmetry) — OpenTelemetry-based instrumentation for LLM calls, vendor-neutral.
 - [Phoenix](https://github.com/Arize-ai/phoenix) — Open-source AI observability and evaluation from Arize.
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) — Free open-source monitoring dashboard for OpenClaw AI agents: token usage, session tracking, 7-day trends, multi-model support. Vue 3 + ECharts, MIT license.
 
 ## Reading
 
