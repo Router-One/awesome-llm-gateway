@@ -34,6 +34,7 @@ Open-source software you deploy and operate yourself: full control, your infrast
 
 - [Apache APISIX AI Gateway](https://apisix.apache.org/) — General-purpose API gateway with AI plugins for proxying, token limiting, and content moderation.
 - [Helicone AI Gateway](https://github.com/Helicone/ai-gateway) — Rust-based self-hostable gateway from the Helicone team, with routing and caching.
+- [Kaeso](https://github.com/logicplanes/kaeso) — MIT self-hosted gateway (Rust, with a TypeScript console) offering OpenAI Chat Completions, Responses, and Embeddings plus Anthropic Messages in front of the operator's own OpenAI and Anthropic keys, with virtual keys, budgets, rate limits, and request logs.
 - [Kong AI Gateway](https://konghq.com/products/kong-ai-gateway) — AI plugins on top of Kong Gateway: multi-provider proxying, prompt guarding, analytics.
 - [LiteLLM](https://github.com/BerriAI/litellm) — The most widely used open-source LLM proxy: 100+ providers behind an OpenAI-compatible API, with routing, budgets, and a managed tier.
 - [One API](https://github.com/songquanpeng/one-api) — Self-hosted multi-provider key management and OpenAI-compatible distribution station, popular in the Chinese-speaking ecosystem.
