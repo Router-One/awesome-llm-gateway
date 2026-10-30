@@ -23,6 +23,7 @@ Hosted services: you get an endpoint and a key, the operator runs the infrastruc
 - [Eden AI](https://www.edenai.co/) — Aggregated API across many AI capabilities (LLMs, vision, speech) with unified billing.
 - [OpenRouter](https://openrouter.ai/) — Large public catalog of models behind one OpenAI-compatible API, with published per-model token pricing.
 - [Portkey](https://portkey.ai/) — AI gateway plus guardrails, virtual keys, and observability; also ships an open-source gateway core.
+- [Pydaxing API](https://pydaxing.com/) — Hosted multi-model API gateway with OpenAI-compatible endpoints, usage-based billing, and public Chinese-language integration documentation.
 - [Requesty](https://requesty.ai/) — Managed router with fallback and cost analytics over multiple providers.
 - [Router One](https://router.one) — Unified LLM API gateway: OpenAI-compatible and Anthropic-compatible endpoints for 40+ supported models, smart routing with automatic same-family fallback, per-request cost traces, per-key budgets, and native Claude Code / Codex CLI support; reachable worldwide including mainland China.
 - [Unify](https://unify.ai/) — Routing layer that picks models per prompt based on quality/cost/latency benchmarks.
