@@ -56,6 +56,7 @@ Tools that answer "what did that call cost, and why did it behave that way" — 
 
 ## Reading
 
+- [Comparing relay API rate multipliers (Chinese)](https://pulse.deedee.tech/learn/rate) — A guide to separating group multipliers, recharge conversion, and actual API spend when comparing relay prices.
 - [Router One: how gateway routing is measured](https://router.one/routing-methodology) — A worked example of EWMA latency scoring, fallback triggers, and how routing decisions get recorded per request.
 - [What is an LLM API gateway?](https://router.one/llm-api-gateway) — Ledger / trace / control framing of what a gateway adds over direct calls.
 
