@@ -39,6 +39,7 @@ Open-source software you deploy and operate yourself: full control, your infrast
 - [One API](https://github.com/songquanpeng/one-api) — Self-hosted multi-provider key management and OpenAI-compatible distribution station, popular in the Chinese-speaking ecosystem.
 - [Portkey Gateway](https://github.com/Portkey-AI/gateway) — Open-source core of Portkey: a lightweight gateway with fallback, retries, and load balancing.
 - [TensorZero](https://github.com/tensorzero/tensorzero) — Open-source gateway with built-in experimentation, observability, and optimization feedback loops.
+- [Yabanin Core](https://github.com/yabaninai/yabanin-core) — Self-hosted Go gateway with OpenAI- and Anthropic-compatible APIs, model routing, access controls, and usage tracking (Apache-2.0; Developer Preview).
 
 ## Routing frameworks & research
 
