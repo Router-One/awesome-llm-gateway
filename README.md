@@ -21,6 +21,7 @@ Hosted services: you get an endpoint and a key, the operator runs the infrastruc
 
 - [Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/) — Gateway layer on Cloudflare's edge: caching, rate limiting, retries, and analytics in front of your existing provider keys.
 - [Eden AI](https://www.edenai.co/) — Aggregated API across many AI capabilities (LLMs, vision, speech) with unified billing.
+- [Kantro](https://kantro.dev) — Managed API gateway exposing OpenAI Chat Completions, OpenAI Responses, and Anthropic Messages endpoints behind one key, with per-key spend limits, model allowlists, and prepaid token billing.
 - [OpenRouter](https://openrouter.ai/) — Large public catalog of models behind one OpenAI-compatible API, with published per-model token pricing.
 - [Portkey](https://portkey.ai/) — AI gateway plus guardrails, virtual keys, and observability; also ships an open-source gateway core.
 - [Requesty](https://requesty.ai/) — Managed router with fallback and cost analytics over multiple providers.
